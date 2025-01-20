@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">YashTask1</string>
+    <string name="home_title">My First Android App</string>
+    <string name="btnName">Explore Android</string>
 </resources>
